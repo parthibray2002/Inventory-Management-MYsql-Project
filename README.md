@@ -1,4 +1,4 @@
-# Inventory-Management-MYsql-Project
+# Inventory-Management-MySQL-Project
 
 https://www.mycompiler.io/view/71VuNErsRuv 
 The original Link of the project
